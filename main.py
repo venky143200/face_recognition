@@ -35,7 +35,7 @@ print({"first_image" : face_distances[0],"second_image_distance":face_distances[
 #     print()
 
 
-
+#this is the just editing purpose writing query
 
 
 
